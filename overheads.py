@@ -36,3 +36,7 @@ def overhead_function(x):
 
 
 
+#using max() function to find the overhead expense and assigning it to overheadvalue variable
+overheadvalue = (max(newlist))
+
+overheadexpense = "Salary Expense"
